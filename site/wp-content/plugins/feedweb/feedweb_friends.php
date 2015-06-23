@@ -1,9 +1,10 @@
 <style>
 .FriendPromotionDiv
 {
-	background-color: #FFFFFF;
+	background-color: #fff;
 	position: relative;
 	display: block;
+	color: #555;
 }
 
 .FriendPromotionDiv div,
@@ -23,6 +24,7 @@
 	font-weight: bold;
 	display: block;
 	width: 450px;
+	color: #000;
 	top: 180px;
 }
 
