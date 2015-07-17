@@ -1,8 +1,14 @@
 === Plugin Name ===
 Requires at least: 3.9
-Stable tag: 3.8.1
+Stable tag: 3.8.2
 
 == Changelog ==
+
+= Version 3.8.2 (July 9, 2015) =
+
+* Fixed: Desktop theme shortcode handling
+* Fixed: Some buttons in MobileStore rendered as transparent in late models of WooCommerce
+* Removed: Requirement to set WordFence cache method to PHP. Further testing suggests Falcon Engine is compatible.
 
 = Version 3.8.1 (June 25, 2015) =
 
